@@ -28,5 +28,8 @@ Personal communication from C. Davis, Departments of Physical Education and Psyc
 
 
 ## Project 1 - Sampling
-## 
+
+The objective of this project is to have a hands-on experience using `Microsoft Excel` to obtain a `simple random sample`.
+- [Click me]() to download the project details in a MS Word format.
+- [Click me]() to download the project details in a PDF format.
 
