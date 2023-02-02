@@ -36,4 +36,4 @@ The objective of this project is to have a hands-on experience using 'Microsoft 
 - [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/Project-2-Descriptive-Statistics.pdf) to download the project details in a PDF format. 
 
 
-# MA 155 Projects
+# MA 123 Projects
