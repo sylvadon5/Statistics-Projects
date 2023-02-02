@@ -37,3 +37,11 @@ The objective of this project is to have a hands-on experience using 'Microsoft 
 
 
 # MA 123 Projects
+
+
+
+## Collaborators from Southeast Missouri State University.
+
+- Emmanuel Thompson
+- Haohao Wang
+- Natalya Kutsevalova
