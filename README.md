@@ -1,4 +1,4 @@
-# MA 155 Projects
+# Statistics Projects
 
 In this course, you will be completing four (4) projects using `Microsoft Excel` and the `Davis Data Set`. 
 
@@ -36,11 +36,11 @@ The objective of this project is to have a hands-on experience using 'Microsoft 
 - [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/Project-2-Descriptive-Statistics.pdf) to download the project details in a PDF format. 
 
 
-# MA 123 Projects
+# Modeling Projects
 
 
 
-
+# Math Projects
 
 ## Collaborators from Southeast Missouri State University.
 
