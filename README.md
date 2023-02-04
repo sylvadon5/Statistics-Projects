@@ -2,8 +2,8 @@
 
 There are four (4) projects to be completed using:
 
-- `Microsoft Excel`
-- `Davis data set (DavisL Self-Reports of Height and Weight)`. 
+- Microsoft (MS) Excel
+- Davis data set (DavisL Self-Reports of Height and Weight). 
   - Click this [`link`](https://rdrr.io/cran/carData/man/Davis.html) for more information about the data set. 
   - This [`link`](https://github.com/sylvadon5/data-files/blob/main/Davis.xlsx) takes you to the data set in MS Excel format.  
 
