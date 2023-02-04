@@ -39,7 +39,7 @@ The objective of this project is to have a hands-on experience using `Microsoft 
 
 # Mathematics Projects
 
-<img src="[https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg](https://cdn2.momjunction.com/wp-content/uploads/2021/08/80-Funny-And-Inspirational-Math-Quotes-For-Students-2.jpg)"  width="600" height="300">
+<img src="https://global-uploads.webflow.com/600f0ea5652fe43f9947466f/60f732cbe23b2c4ec7915af4_what-is-calculus.jpg"  width="50%" height="40%">
 
 Find below information on the Math projects.
 
