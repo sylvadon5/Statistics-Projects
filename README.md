@@ -39,16 +39,7 @@ The objective of this project is to have a hands-on experience using `Microsoft 
 
 ## Project 4 - Statistical Modeling
 
-# Mathematics Projects
 
-<img src="https://semo.edu/student-support/academic-support/_images/math-learning-center-500x334.jpeg"  width="50%" height="40%">
-
-Find below information on the Math projects.
-
-- [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/CatEquation.pdf) to download `equations` in a PDF format.  
-- [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/GraphCat.pdf) to download a `graph` in a PDF format. 
-- [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/PosterIntegration.pdf) to download a `poster integration` in a PDF format. 
-- [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/WashingtonMonument.pdff) to download an `image` in a PDF format. 
 
 
 
