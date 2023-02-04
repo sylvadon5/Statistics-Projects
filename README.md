@@ -37,8 +37,8 @@ The objective of this project is to have a hands-on experience using 'Microsoft 
 
 ## Project 3 - Inferential Statistics
 The objective of this project is to have a hands-on experience using 'Microsoft Excel' to summarize and describe the basic features/characteristics of data.
-- [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/Project-2-Descriptive-Statistics.docx) to download the project details in a MS Word format.
-- [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/Project-2-Descriptive-Statistics.pdf) to download the project details in a PDF format. 
+- [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/Project_3-SINF.docx) to download the project details in a MS Word format.
+- [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/Project_3-SINF.pdf) to download the project details in a PDF format. 
 
 
 # Modeling Projects
