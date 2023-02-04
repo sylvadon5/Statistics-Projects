@@ -1,6 +1,9 @@
 # Statistics Projects
 
-There are four (4) projects to be completed using `Microsoft Excel` and the `Davis Data Set`. 
+There are four (4) projects to be completed using:
+
+- `Microsoft Excel`
+- `Davis data set (DavisL Self-Reports of Height and Weight)`. Click this [`link`](https://rdrr.io/cran/carData/man/Davis.html) for more information about the data set. This [`link`](https://github.com/sylvadon5/data-files/blob/main/Davis.xlsx) takes you to the data set in MS Excel format.  
 
 ## About Davis Data Set
 ### Description
@@ -13,16 +16,6 @@ This data frame contains the following columns:
 - `height` Measured height in cm.
 - `repwt` Reported weight in kg.
 - `repht` Reported height in cm.
-
-This [`link`](https://github.com/sylvadon5/data-files/blob/main/Davis.xlsx) takes you to the Davis Data Set. 
-
-### Source
-Personal communication from C. Davis, Departments of Physical Education and Psychology, York University.
-
-### References
-- Davis, C. (1990) Body image and weight preoccupation: A comparison between exercising and non-exercising women. Appetite, 15, 13–21.
-- Fox, J. (2016) Applied Regression Analysis and Generalized Linear Models, Third Edition. Sage.
-- Fox, J. and Weisberg, S. (2019) An R Companion to Applied Regression, Third Edition, Sage.
 
 
 ## Project 1 - Sampling
