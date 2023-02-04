@@ -35,7 +35,7 @@ The objective of this project is to have a hands-on experience using 'Microsoft 
 - [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/Project-2-Descriptive-Statistics.docx) to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/Project-2-Descriptive-Statistics.pdf) to download the project details in a PDF format. 
 
-## Project 3 - Descriptive Statistics
+## Project 3 - Inferential Statistics
 The objective of this project is to have a hands-on experience using 'Microsoft Excel' to summarize and describe the basic features/characteristics of data.
 - [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/Project-2-Descriptive-Statistics.docx) to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/Project-2-Descriptive-Statistics.pdf) to download the project details in a PDF format. 
