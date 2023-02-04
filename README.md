@@ -39,6 +39,8 @@ The objective of this project is to have a hands-on experience using `Microsoft 
 
 # Mathematics Projects
 
+![](https://cdn2.momjunction.com/wp-content/uploads/2021/08/80-Funny-And-Inspirational-Math-Quotes-For-Students-2.jpg)
+
 Find below information on the Math projects.
 
 - [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/CatEquation.pdf) to download `equations` in a PDF format.  
