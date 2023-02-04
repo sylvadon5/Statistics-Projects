@@ -1,6 +1,6 @@
 # Statistics Projects
 
-In this course, you will be completing four (4) projects using `Microsoft Excel` and the `Davis Data Set`. 
+There are four (4) projects to be completed using `Microsoft Excel` and the `Davis Data Set`. 
 
 ## About Davis Data Set
 ### Description
@@ -31,15 +31,16 @@ The objective of this project is to have a hands-on experience using `Microsoft 
 - [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/Project-1-%20SRS.pdf) to download the project details in a PDF format.
 
 ## Project 2 - Descriptive Statistics
-The objective of this project is to have a hands-on experience using 'Microsoft Excel' to summarize and describe the basic features/characteristics of data.
+The objective of this project is to have a hands-on experience using 'Microsoft Excel' and descriptive tools to summarize and describe the basic features/characteristics of data.
 - [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/Project-2-Descriptive-Statistics.docx) to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/Project-2-Descriptive-Statistics.pdf) to download the project details in a PDF format. 
 
 ## Project 3 - Inferential Statistics
-The objective of this project is to have a hands-on experience using 'Microsoft Excel' to summarize and describe the basic features/characteristics of data.
+The objective of this project is to have a hands-on experience using 'Microsoft Excel' and random samples to draw conclusions about a population parameter.
 - [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/Project_3-SINF.docx) to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/Project_3-SINF.pdf) to download the project details in a PDF format. 
 
+## Project 4 - Statistical Modeling
 
 # Modeling Projects
 
