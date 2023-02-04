@@ -1,5 +1,7 @@
 # Statistics Projects
 
+<img src="https://semo.edu/colleges-departments/stem/mathematics/_images/math-1-500x282.jpg"  width="50%" height="40%">
+
 There are four (4) projects to be completed using:
 
 - Microsoft (MS) Excel
@@ -39,7 +41,7 @@ The objective of this project is to have a hands-on experience using `Microsoft 
 
 # Mathematics Projects
 
-<img src="https://global-uploads.webflow.com/600f0ea5652fe43f9947466f/60f732cbe23b2c4ec7915af4_what-is-calculus.jpg"  width="50%" height="40%">
+<img src="https://semo.edu/student-support/academic-support/_images/math-learning-center-500x334.jpeg"  width="50%" height="40%">
 
 Find below information on the Math projects.
 
